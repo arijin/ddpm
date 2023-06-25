@@ -1,2 +1,1 @@
 # ddpm
-xiaoxiaojiang ddpm
